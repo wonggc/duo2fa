@@ -18,4 +18,4 @@ To prevent retrieving the same 2FA and ensure only unique 2FA is retrieved, a ha
 
 Link to video:
 
-[!(YouTube Duofa demo]((https://img.youtube.com/vi/A4Lgr8ibxQo/maxresdefault.jpg))(https://youtu.be/A4Lgr8ibxQo
+[![YouTube Duofa demo](https://img.youtube.com/vi/A4Lgr8ibxQo/maxresdefault.jpg)](https://youtu.be/A4Lgr8ibxQo)
