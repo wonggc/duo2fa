@@ -1,4 +1,4 @@
-#!/Users/gwong2/Envs/duo2fa/bin/python
+#!/usr/bin/env python3
 import pyperclip
 import os
 import sys

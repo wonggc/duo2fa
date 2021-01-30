@@ -1,4 +1,4 @@
-#!/Users/gwong2/Envs/duo2fa/bin/python
+#!/usr/bin/env python3
 from __future__ import print_function
 import pickle
 import os.path
